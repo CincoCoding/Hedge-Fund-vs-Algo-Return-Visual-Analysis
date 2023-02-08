@@ -24,7 +24,7 @@ The code uses three csv files as input:
 3. Cleans the "Close" column of spy_data file.
 4. Calculates daily returns for the spy_data.
 5. Joins the data of all three portfolios (whale_returns, algo_returns, spy_data) into a single DataFrame.
-6. 
+
 ![dataframe](Resources/Images/returns-dataframe.png)
 
 
