@@ -1,4 +1,7 @@
 # Hedge Fund vs Algo Return Analysis
+
+![image](../Resources/Images/portfolio-analysis.png)
+
 ## Description
 The code evaluates the performance of algorithmic, hedge, and mutual fund portfolios and compares them against the S&P 500 Index.
 
